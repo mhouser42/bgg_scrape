@@ -1,2 +1,2 @@
 # bgg_scrape
-A webscraper for BoardGameGeek's game rankings.
+A webscraper and for BoardGameGeek's game rankings. Included is a 2017 dataset for comparative analysis.
